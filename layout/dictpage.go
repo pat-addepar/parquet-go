@@ -5,6 +5,7 @@ import (
 	"math/bits"
 
 	"github.com/apache/thrift/lib/go/thrift"
+	"github.com/apache/thrift/lib/go/thrift/parquet"
 	"github.com/xitongsys/parquet-go/common"
 	"github.com/xitongsys/parquet-go/compress"
 	"github.com/xitongsys/parquet-go/encoding"
